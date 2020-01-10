@@ -1,0 +1,17 @@
+{
+  "name": "node-rest-app",
+  "version": "1.0.0",
+  "description": "Node.js RESTful API project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-app"
+  ],
+  "author": "Luvigi Priyanjana Rodrigo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
